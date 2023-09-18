@@ -1,2 +1,2 @@
 # matthew_repo
-for studes
+for studies
